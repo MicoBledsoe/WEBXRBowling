@@ -85,7 +85,7 @@ public class CentralScript : MonoBehaviour
             if (rb != null)
             {
                 rb.isKinematic = false; // Re-enable physics.
-                rb.AddForce(mainCamera.transform.forward * 500); // Apply a forward force to relative to the CAM POS
+                rb.AddForce(mainCamera.transform.forward * 1500); // Apply a forward force to relative to the CAM POS
                 isDragging = false;
                 isThrown = true; // Mark da ball as thrown
             }
