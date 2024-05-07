@@ -100024,6 +100024,7 @@ GameObject:
   - component: {fileID: 7255880856254699312}
   - component: {fileID: 7255880856254699279}
   - component: {fileID: 7255880856254699314}
+  - component: {fileID: 7255880856254699315}
   m_Layer: 0
   m_Name: bowlingpins1 (7)
   m_TagString: pins
@@ -100146,6 +100147,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880856254699315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880856254699276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7255880856388118069
 GameObject:
   m_ObjectHideFlags: 0
@@ -100159,6 +100172,7 @@ GameObject:
   - component: {fileID: 7255880856388118073}
   - component: {fileID: 7255880856388118072}
   - component: {fileID: 7255880856388118075}
+  - component: {fileID: 7255880856388118076}
   m_Layer: 0
   m_Name: bowlingpins1 (4)
   m_TagString: pins
@@ -100281,6 +100295,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880856388118076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880856388118069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7255880856423588770
 GameObject:
   m_ObjectHideFlags: 0
@@ -100294,6 +100320,7 @@ GameObject:
   - component: {fileID: 7255880856423588774}
   - component: {fileID: 7255880856423588773}
   - component: {fileID: 7255880856423588776}
+  - component: {fileID: 7255880856423588777}
   m_Layer: 0
   m_Name: bowlingpins1 (9)
   m_TagString: pins
@@ -100416,6 +100443,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880856423588777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880856423588770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7255880856585448453
 GameObject:
   m_ObjectHideFlags: 0
@@ -100429,6 +100468,7 @@ GameObject:
   - component: {fileID: 7255880856585448457}
   - component: {fileID: 7255880856585448456}
   - component: {fileID: 7255880856585448459}
+  - component: {fileID: 7255880856585448460}
   m_Layer: 0
   m_Name: bowlingpins1 (5)
   m_TagString: pins
@@ -100551,6 +100591,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880856585448460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880856585448453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7255880857288496355
 GameObject:
   m_ObjectHideFlags: 0
@@ -100564,6 +100616,7 @@ GameObject:
   - component: {fileID: 7255880857288496359}
   - component: {fileID: 7255880857288496358}
   - component: {fileID: 7255880857288496361}
+  - component: {fileID: 7255880857288496362}
   m_Layer: 0
   m_Name: bowlingpins1 (6)
   m_TagString: pins
@@ -100686,6 +100739,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880857288496362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880857288496355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!23 &7255880857367705856
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -101073,6 +101138,7 @@ GameObject:
   - component: {fileID: 7255880857577849616}
   - component: {fileID: 7255880857577850095}
   - component: {fileID: 7255880857577850096}
+  - component: {fileID: 7255880857577850097}
   m_Layer: 0
   m_Name: bowlingpins1 (3)
   m_TagString: pins
@@ -101145,6 +101211,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880857577850097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880857577850092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7255880857827353128
 GameObject:
   m_ObjectHideFlags: 0
@@ -101158,6 +101236,7 @@ GameObject:
   - component: {fileID: 7255880857827353132}
   - component: {fileID: 7255880857827353131}
   - component: {fileID: 7255880857827353134}
+  - component: {fileID: 7255880857827353135}
   m_Layer: 0
   m_Name: bowlingpins1 (8)
   m_TagString: pins
@@ -101280,6 +101359,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7255880857827353135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7255880857827353128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49fcfed181133b14b8ac41fafd2fb13b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &7256903267847203476
 Transform:
   m_ObjectHideFlags: 0
