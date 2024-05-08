@@ -16828,6 +16828,7 @@ GameObject:
   - component: {fileID: 658021088}
   - component: {fileID: 658021090}
   - component: {fileID: 658021089}
+  - component: {fileID: 658021091}
   m_Layer: 0
   m_Name: XR Origin (XR Rig)
   m_TagString: Untagged
@@ -17048,6 +17049,25 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: -6493913391331992944, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
+--- !u!114 &658021091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658021082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9060f5f2cf07d54eb0cc9560d3eb8dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpButton: {fileID: -958659016143384511, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
+  jumpHeight: 3
+  cc: {fileID: 658021088}
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!1 &663382229
 GameObject:
   m_ObjectHideFlags: 0
@@ -39214,7 +39234,7 @@ GameObject:
   - component: {fileID: 1642085147}
   - component: {fileID: 1642085146}
   - component: {fileID: 1642085145}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Ground
   m_Icon: {fileID: 0}
